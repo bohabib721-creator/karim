@@ -2,8 +2,8 @@ import telebot
 import google.generativeai as genai
 
 # الإعدادات
-TELEGRAM_TOKEN = "8772903016:AAFXyO02KJ5w8ZcTepJHrDQnpY0R2LMj7Mo"
-GEMINI_API_KEY = "AIzaSyB........................."
+TELEGRAM_TOKEN = 8772903016:AAH6o2Y_e8ntazvJhqzEqgQGGgV0vejugdQ
+GEMINI_API_KEY = "AIzaSyB..."
 
 # إعداد Gemini
 genai.configure(api_key=GEMINI_API_KEY)
