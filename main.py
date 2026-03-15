@@ -6,8 +6,8 @@ import socketserver
 import threading
 
 # الإعدادات
-TELEGRAM_TOKEN = "8772903016:AAH6o2Y_e8ntazvJhqzEqgQGGgV0vejugdQ"
-GEMINI_API_KEY = "ضعهنا_مفتاح_جوجل_الخاص_بك"
+TELEGRAM_TOKEN = "8772903016:AAHAjzCH2iQ5mDH3OGVEsGE8LCPB9Zc0iXM"
+GEMINI_API_KEY = "AIzaSyDO-EHfbO83eyuC04B8r1duQY556sshUs8"
 
 # تشغيل سيرفر وهمي لإرضاء Render ومنع خطأ Port
 def run_dummy_server():
