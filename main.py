@@ -7,7 +7,7 @@ import threading
 
 # الإعدادات - تم تحديثها بمفاتيحك الجديدة
 TELEGRAM_TOKEN = "8772903016:AAHAjzCH2iQ5mDH3OGVEsGE8LCPB9Zc0iXM"
-GEMINI_API_KEY = "AIzaSyDO-EHfb083eyuC04B8r1duQY556sshUs8"
+GEMINI_API_KEY = "AIzaSyCx-D8jV9L2n4B7p1R5k0Q9wS8vT7uH6y4"
 
 # تشغيل سيرفر وهمي لإرضاء Render ومنع خطأ Port
 def run_dummy_server():
