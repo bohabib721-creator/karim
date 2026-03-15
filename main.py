@@ -6,7 +6,7 @@ import socketserver
 import threading
 
 # الإعدادات
-TELEGRAM_TOKEN = "8772903016:AAFXyO02KJ5w8ZcTepJHrDQnpY0R2LMj7Mo"
+TELEGRAM_TOKEN = "8772903016:AAH6o2Y_e8ntazvJhqzEqgQGGgV0vejugdQ"
 GEMINI_API_KEY = "ضعهنا_مفتاح_جوجل_الخاص_بك"
 
 # تشغيل سيرفر وهمي لإرضاء Render ومنع خطأ Port
